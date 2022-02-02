@@ -68,7 +68,7 @@ img {
 }
 
 .header {
-    padding-bottom: 30px;
+    height: 80px;
     border-bottom: 1px solid #ECECEC;
 }
 
@@ -114,7 +114,7 @@ text-decoration: none;
 }
 
 
-/* ====== END HEDER ====== */
+/* ====== END HEADER ====== */
 
 /* ====== SECTION I ====== */
 .section-1{
@@ -131,12 +131,12 @@ letter-spacing: 0.06em;
 text-transform: uppercase;
 color: var(--white-color);
 padding-top: 200px;
-padding-right: 400px;
-padding-left: 400px;
+padding-left: 230px;
+padding-right: 230px;
 }
 .modal-btn-div{
     padding-top: 30px;
-    padding-left: 650px;
+    padding-left: 470px;
     padding-bottom: 200px;
 
 }
@@ -182,6 +182,11 @@ text-transform: uppercase;
     color: var(--second-color);
     padding-top: 10px;
 }
+
+/* ====== END SECTION II ====== */
+
+/* ====== SECTION III ======*/
+
 .secondary-header {
 font-weight: bold;
 font-size: 36px;
@@ -201,12 +206,12 @@ padding-bottom: 50px;
     padding-right: 30px;
 }
 
-/* ====== END SECTION II ====== */
+/* ====== END SECTION III ====== */
 
 
-/* ====== SECTION III ======*/
+/* ====== SECTION IV ======*/
 
-.section-3 {
+.section-4 {
     background-color: #F5F4FA;
 }
 
@@ -243,7 +248,7 @@ border-radius: 0px 0px 4px 4px;
     padding-top: 10px;
     padding-bottom: 30px;
 }
-/* ====== END SECTION III ======*/
+/* ====== END SECTION IV ======*/
 
 
 /* ====== FOOTER ====== */
